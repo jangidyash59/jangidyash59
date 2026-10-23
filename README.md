@@ -9,7 +9,7 @@
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yash-jangid-7131162a0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yash-jangid-7131162a0/">
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://public.tableau.com/app/profile/yash.jangid5535/viz/Venture-Creed-Customer-Segmentation/Dashboard1"><img src="https://img.shields.io/badge/Tableau_Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
   <a href="mailto:jangidyash1259@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
